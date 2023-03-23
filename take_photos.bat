@@ -1,0 +1,1 @@
+python application/take_photos.py
